@@ -8,4 +8,4 @@ jobs:
       - name: my-step
         run: echo "Hello World!"
       - name: my-name
-        run: echo "Santhosh NC"
+        run: echo "Abhinandan"
